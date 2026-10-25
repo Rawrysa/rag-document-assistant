@@ -1,0 +1,10 @@
+pdenv/
+.venv/
+.env
+__pycache__/
+notebooks/
+logs/
+data/
+# Uploaded documents are written here at runtime; only the prompt file is source
+docs/*
+!docs/prompts.txt
